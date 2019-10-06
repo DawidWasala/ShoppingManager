@@ -1,2 +1,1 @@
-# ShoppingManager
-elo elo
+It doesnt work
